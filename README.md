@@ -1,4 +1,4 @@
-# Docker starter - SpringBoot project with Maven\
+# Docker starter - SpringBoot project with Maven
 
 ## 1. Build Docker image from `.jar` artifact only
 Use the following `Dockerfile`
